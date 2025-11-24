@@ -1,0 +1,18 @@
+[
+  {
+    "template": "next",
+    "stack": [
+      "Tailwind"
+    ]
+  },
+  {
+    "template": "react",
+    "stack": []
+  },
+  {
+    "template": "react-router-dom-framework",
+    "stack": [
+      "Tailwind"
+    ]
+  }
+]
