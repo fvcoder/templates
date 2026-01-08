@@ -14,5 +14,13 @@
     "stack": [
       "Tailwind"
     ]
+  },
+  {
+    "template": "next-hero-3",
+    "stack": [
+      "next",
+      "Tailwind",
+      "Hero UI 3 (BETA-3)"
+    ]
   }
 ]
