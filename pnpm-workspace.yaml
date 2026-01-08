@@ -2,3 +2,4 @@ packages:
   - "next"
   - "react"
   - "react-router-dom-framework"
+  - "next-hero-3"
